@@ -10,8 +10,8 @@
 
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage: CLI](#usage:-cli)
-- [Usage: Web App](#usage:-web-app)
+- [Usage: CLI](#usage--cli)
+- [Usage: Web App](#usage--web-app)
 - [Security Checks Explained](#security-checks-explained)
 - [Scoring System](#scoring-system)
 - [CLI Flags Reference](#cli-flags-reference)
