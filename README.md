@@ -53,7 +53,7 @@ npm install
 
 ---
 
-## Usage — CLI
+## Usage: CLI
 
 ### Interactive mode (the normal way)
 
@@ -68,7 +68,7 @@ python password_check.py
 Pass the password as an argument (careful though, it might end up in your shell history, which is kinda ironic for a security tool):
 
 ```bash
-python password_check.py "MyP@ssw0rd!"
+python password_check.py "MyP@ssw0rd!
 ```
 
 ### Batch mode
@@ -79,7 +79,7 @@ Check a whole file of passwords at once and get a summary:
 python password_check.py --batch passwords.txt
 ```
 
-### Personal-info mode
+### Personal info mode
 
 Give it your name, username, and birth year so it can warn you if your password is literally just your own info:
 
@@ -97,7 +97,7 @@ python password_check.py "MyP@ssw0rd!" --json
 
 ---
 
-## Usage — Web App
+## Usage: Web App
 
 1. Start the API server:
    ```bash
@@ -181,8 +181,8 @@ If you mess up somewhere, the tool also generates a strong password suggestion (
 
 - [Fonctionnement général](#fonctionnement-général)
 - [Installation](#installation-1)
-- [Utilisation — CLI](#utilisation--cli)
-- [Utilisation — Application Web](#utilisation--application-web)
+- [Utilisation: CLI](#utilisation--cli)
+- [Utilisation: Application Web](#utilisation--application-web)
 - [Vérifications de sécurité](#vérifications-de-sécurité)
 - [Système de score](#système-de-score)
 - [Référence des options CLI](#référence-des-options-cli)
@@ -223,7 +223,7 @@ npm install
 
 ---
 
-## Utilisation — CLI
+## Utilisation: CLI
 
 ### Mode interactif (la façon normale)
 
@@ -267,7 +267,7 @@ python password_check.py "MonM0tDePasse!" --json
 
 ---
 
-## Utilisation — Application Web
+## Utilisation: Application Web
 
 1. Démarrez le serveur API :
    ```bash
